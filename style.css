@@ -1,0 +1,61 @@
+body{
+    font-family: 'Karla', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.salmon{
+    color: red;
+}
+.divclass{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+img{
+    width: 100%;
+}
+h1{
+    font-size: 50px;
+}
+.abuttan{
+    text-decoration: none;
+    background-image: linear-gradient(48deg , blue, gray);
+    font-weight: bold;
+    color: aqua;
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+section{
+    height: 600px;
+}
+.box{
+    box-shadow: 10px 10px 40px rgb(56, 255, 2);
+    height: 50%;
+    border-radius: 5px;
+}
+#one{
+    border-left: 7px solid ;
+    border-image: linear-gradient(180deg , green, yellow);
+    border-image-slice: 1;
+}
+#tow{
+    border-left: 7px solid ;
+    border-image: linear-gradient(180deg , aqua, gray );
+    border-image-slice: 1;
+}
+footer{
+text-align: center;
+}
+.secclassone{
+    background-image: url(img5.png);
+}
+.secclasstow{
+    background-image: url(img5.png);
+}
+.boxsec{
+    background-image: url(img5.png);
+    }
+#last{
+    margin: 3%;
+}
